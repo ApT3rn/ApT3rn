@@ -1,5 +1,5 @@
 - 👋 Greetings, my name is Artem Vladimirovich Leonidov!
 - 👀 At the moment I am a 4rd year student.
 - 🌱 I am currently studying Java.
-- 💞️ I am ready to cooperate with companies with further employment.
+- 💞️ I am currently looking for a job.
 - 📫 How to contact me leonidon.artiom@gmail.com
