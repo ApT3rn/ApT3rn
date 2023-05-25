@@ -1,5 +1,5 @@
-# 💫 Hello:
-🔭 I am currently looking for a job<br>🌱 I'm studying backend development, playing a little with the frontend<br>⚡ I go fishing in the summer<br>💬 My email: leonidon.artiom@gmail.com
+# 💫 Hi:
+👨‍💻 My name is Artiom Leonidov<br>🔭 I am currently looking for a job<br>🌱 I'm studying backend development, playing a little with the frontend<br>⚡ I go fishing in the summer<br>💬 My email: leonidon.artiom@gmail.com
 
 
 ## 🌐 Socials:
