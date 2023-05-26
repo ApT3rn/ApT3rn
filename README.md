@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=ApT3rn&icon=0&color=8" alt=""></p>
+<p align="center"><img src="https://visitcount.itsvg.in/api?id=apt3rn&icon=0&color=6" alt=""></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -42,6 +42,6 @@ I am a Junior Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ---
 
 ### 🔥 &nbsp; My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApT3rn&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apt3rn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
