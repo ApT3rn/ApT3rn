@@ -40,6 +40,6 @@ I am a Junior Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApT3rn&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApT3rn&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
