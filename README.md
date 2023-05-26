@@ -19,7 +19,7 @@ I am a Junior Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 <p>
   <a href="https://www.linkedin.com/in/apt3rn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"</a>
-  <a href="https://vk.com/apt3rn"><img src="[https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=ВКОНТАКТЕ&logoColor=white](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white)" alt="VK"></a>
+  <a href="https://vk.com/apt3rn"><img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"></a>
 </p>
 
 ---
