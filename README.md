@@ -12,7 +12,7 @@
 
 ---
 
-### 💬 &nbsp;Социальный сети:
+### 💬 &nbsp;Социальные сети:
 
 <p>
   <a href="https://www.linkedin.com/in/apt3rn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"</a>
