@@ -38,5 +38,6 @@
 
 ### 🔥 &nbsp;Моя статистика:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apt3rn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApT3rn&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 
