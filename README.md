@@ -16,7 +16,6 @@
 
 <p>
   <a href="https://vk.com/apt3rn"><img src="https://img.shields.io/badge/VKONTAKTE-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"></a>
-  <a href="https://www.instagram.com/apt3rn"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
