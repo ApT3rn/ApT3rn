@@ -1,26 +1,14 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">Привет, меня зовут Артём!</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">Hi there, I'm Artyom!</h1>
 
-### 👨‍💻 &nbsp;Обо мне:
+###I'm a Backend Developer.
 
-Я начинающий Java-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Мой путь начался в декабре 2021 года, когда мне предложили  разработать игру в команде на языке Python и его движке Ren'Py. Но перед началом процесса что-то пошло не так и идея была заброшена, и только спустя некоторое время после этого я продолжил обучаться, но решил выбрать другой язык и меня зацепил язык Java, который я сейчас использую.
-
-- 🌱 Изучаю бэкенд разработку, умею немного верстать HTML страницы.
-
-- 🔭 В данный момент нахожусь в поиске работы.
-
-- 🧑‍🎓 В будущем хочу изучить Kotlin.
+- 💪 I like to write code.
+- 🎉 Music lover for life
+- 📚 I strive for self-development.
 
 ---
 
-### 💬 &nbsp;Социальные сети:
-
-<p>
-  <a href="https://vk.com/apt3rn"><img src="https://img.shields.io/badge/VKONTAKTE-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"></a>
-</p>
-
----
-
-### 🛠 &nbsp;Технологии:
+### 🛠 &nbsp;Languages and Tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
@@ -36,7 +24,7 @@
 
 ---
 
-### 🔥 &nbsp;Моя статистика:
+### 🔥 &nbsp;My stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apt3rn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
