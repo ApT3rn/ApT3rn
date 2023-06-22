@@ -22,7 +22,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="45" height="45"/>&nbsp;
 </p>
 
----
 
 
 
