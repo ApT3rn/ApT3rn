@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">Hi there, I'm Artyom!</h1>
 
-### I'm a Java Developer.
+### I'm a Junior Developer.
 
 - 💪 I like to write code.
 - 🎉 Music lover for life
